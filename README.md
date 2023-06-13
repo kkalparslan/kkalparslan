@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫
 Quality is too important to be left to one person, so it should not be the last step!
 
 
