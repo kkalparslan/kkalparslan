@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on a software project for people in need of care between the ages of 0-35.
+Quality is too important to be left to one person, so it should not be the last step!
 
 
 # 💻 Tech Stack:
