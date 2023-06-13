@@ -1,5 +1,5 @@
 # 💫  Hello, I'm Alparslan
-Quality is too important to be left to one person, so it should not be the last step!
+Quality is too important to be left to the responsibility of one person, so it should not be the last step!
 
 
 # 💻 Tech Stack:
